@@ -69,7 +69,7 @@
 ---
 
 ## 🧠 Featured Projects (Pinned)
-> Replace the links with your actual repos once you upload them.
+
 
 ### 🕵️ AI Generated Text Detection Model (NLP + Transformers)
 - 🧠 BERT / GPT / Transformers for detecting AI vs Human text  
