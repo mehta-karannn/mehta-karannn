@@ -68,7 +68,7 @@
 
 ---
 
-## 🧠 Featured Projects (Pinned)
+## 🧠 Featured Projects 
 
 
 ### 🕵️ AI Generated Text Detection Model (NLP + Transformers)
