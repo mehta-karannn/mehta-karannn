@@ -110,17 +110,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karanmehtaaa&show_icons=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanmehtaaa&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanmehtaaa" />
-</p>
-
----
 
 ## 🤝 Let’s Connect
 - 📩 Email: **karanmehta0312@gmail.com**
