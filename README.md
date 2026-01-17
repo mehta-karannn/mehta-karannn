@@ -23,7 +23,7 @@
 
 ---
 
-## 🧰 Tech Stack (Tools I Use)
+## 🧰 Tech Stack 
 ### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css,postgres,mongodb" />
