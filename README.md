@@ -42,7 +42,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 ### 🏗️ Data Analyst & Machine Learning Intern — **Aarya Creation** (Jan 2025 – Jun 2025)
 - 📐 Extracted insights from **AutoCAD design & construction datasets** for planning + estimation  
 - 🔮 Built **predictive models (Python)** to forecast resource/material requirements  
