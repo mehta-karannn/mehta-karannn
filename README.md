@@ -115,5 +115,4 @@
 
 ---
 
-### ✨ Motto
-> *Build useful things. Measure impact. Improve continuously.*
+
