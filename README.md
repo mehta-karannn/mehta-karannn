@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Karan Mehta 👋</h1>
+<h1 align="center">Hi, I'm Karan Mehta </h1>
 <h3 align="center">MSc CS (Data Analytics) @ University of Galway • Data Analytics • Full-Stack • ML/AI</h3>
 
 <p align="center">
