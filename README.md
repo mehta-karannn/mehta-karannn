@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,fastapi,docker,linux" />
 </p>
 
-### 📊 Analytics / BI
+### 📊 Analytics 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Excel-111?style=for-the-badge&logo=microsoft-excel&logoColor=22C55E" />
